@@ -1,53 +1,53 @@
 Igrišče, Ancimacije, osebe, Čas/Tick, nasprotniki, premiki igralec, premiki žoga,
 kamera, Začetna pozicija, Izziv, težavnost, 
 
-1.Postaviti igrašče, igralce/žogo
+1.Postaviti igrašče, igralce/žogo 30.11
  -teksture
  -igrišče
  -likov
 
-2./
+2./ 6.11
 
-3.Premiki(tick)
+3.Premiki(tick) 13.11
  -časovnik(tick)
- -kontrole 
- -žoga kontorle
+ -kontrole + žoga 
+ -animacija + sound
 
-4.Pravila(avt, žoga), Camera
+4.Pravila(avt, žoga), Camera 20.11
  -kamera na žogo
  -pravilo avt
- -animacija avt
+ -animacija avt + sound
 
-5.Gol, točke, čas, žačetne pozicije
- -gol, številke, črte teksture + animacija
+5.Gol, točke, čas, žačetne pozicije 27.11
+ -gol, številke, črte teksture + animacija + sound
  -implementacija časa
  -pozicije glede na situacijo
 
-6.Drugi igralci + Podaja
- -teksture igralci, tekusture podaja
+6.Drugi igralci + Podaja 4.12
+ -teksture igralci, tekusture podaja + animacija
  -osnovni premiki + implementacija
  -podaja logika
 
-7./
+7./ 11.12
 
-8.Podaja, nasprotni igralci + osnovni premiki
+8.Podaja, nasprotni igralci + osnovni premiki 18.12
  -podaja fineze
  -nasprotni igralci logika
  -dresi, meni ikone...
 
-9. P
+9. P 25.12
 
-10. P
+10. P 1.1
 
-11.Meni
+11.Meni 8.1
  -implementacija
  -nastavitve
- -meni texture
+ -meni texture + sound 
 
-12.Premiki, težavnost
+12.Premiki, težavnost 15.1
  -nasprotini igralci napredna 
  -dodatne texture
  -logika težavnosti(nastavitve)
  
-13.Zaključki
+13.Zaključki 22.1
 
