@@ -1,4 +1,4 @@
-1.Postaviti igrašče, igralce/žogo
+1.Postaviti igrišče, igralce/žogo
 2./
 3.Premiki(tick)
 4.Pravila(avt, žoga), Camera
