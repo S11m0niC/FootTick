@@ -1,11 +1,6 @@
 Igrišče, Ancimacije, osebe, Čas/Tick, nasprotniki, premiki igralec, premiki žoga,
 kamera, Začetna pozicija, Izziv, težavnost, 
 
-
-
-
-
-
 1.Postaviti igrašče, igralce/žogo
  -teksture
  -igrišče
