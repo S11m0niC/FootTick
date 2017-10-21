@@ -47,7 +47,7 @@ kamera, Začetna pozicija, Izziv, težavnost,
 12.Premiki, težavnost
  -nasprotini igralci napredna 
  -dodatne texture
- -
+ -logika težavnosti(nastavitve)
  
 13.Zaključki
 
