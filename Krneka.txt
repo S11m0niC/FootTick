@@ -1,0 +1,19 @@
+
+
+
+
+
+
+1.Postaviti igrašèe, igralce/žogo
+2./
+3.Premiki(tick)
+4.Pravila(avt, žoga), Camera
+5.Gol, toèke, èas, žaèetne pozicije
+6.Drugi igralci + Podaja
+7./
+8.Podaja, nasprotni igralci + osnovni premiki
+9. P
+10. P
+11.Premiki, težavnost
+12.Strel....?
+13.Zakljuèki
