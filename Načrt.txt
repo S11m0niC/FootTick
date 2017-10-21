@@ -16,29 +16,38 @@ kamera, Začetna pozicija, Izziv, težavnost,
 4.Pravila(avt, žoga), Camera
  -kamera na žogo
  -pravilo avt
- -deli kamero
+ -animacija avt
 
 5.Gol, točke, čas, žačetne pozicije
- -gol, številke, črte teksture
+ -gol, številke, črte teksture + animacija
  -implementacija časa
  -pozicije glede na situacijo
 
 6.Drugi igralci + Podaja
- -teksture igralci,
- -osnovni premiki
- -podaja
+ -teksture igralci, tekusture podaja
+ -osnovni premiki + implementacija
+ -podaja logika
 
 7./
+
 8.Podaja, nasprotni igralci + osnovni premiki
- -podaja
+ -podaja fineze
  -nasprotni igralci logika
- -nasprotni igralci
+ -dresi, meni ikone...
 
 9. P
-10. P
-11.Premiki, težavnost
- -nasprotini igralci napredna 
 
-12.Strel....?
+10. P
+
+11.Meni
+ -implementacija
+ -nastavitve
+ -meni texture
+
+12.Premiki, težavnost
+ -nasprotini igralci napredna 
+ -dodatne texture
+ -
+ 
 13.Zaključki
 
