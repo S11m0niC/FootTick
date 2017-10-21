@@ -1,13 +1,49 @@
-1.Postaviti igrišče, igralce/žogo
+Igrišče, Ancimacije, osebe, Čas/Tick, nasprotniki, premiki igralec, premiki žoga,
+kamera, Začetna pozicija, Izziv, težavnost, 
+
+
+
+
+
+
+1.Postaviti igrašče, igralce/žogo
+ -teksture
+ -igrišče
+ -likov
+
 2./
+
 3.Premiki(tick)
+ -časovnik(tick)
+ -kontrole 
+ -žoga kontorle
+
 4.Pravila(avt, žoga), Camera
+ -kamera na žogo
+ -pravilo avt
+ -deli kamero
+
 5.Gol, točke, čas, žačetne pozicije
+ -gol, številke, črte teksture
+ -implementacija časa
+ -pozicije glede na situacijo
+
 6.Drugi igralci + Podaja
+ -teksture igralci,
+ -osnovni premiki
+ -podaja
+
 7./
 8.Podaja, nasprotni igralci + osnovni premiki
+ -podaja
+ -nasprotni igralci logika
+ -nasprotni igralci
+
 9. P
 10. P
 11.Premiki, težavnost
+ -nasprotini igralci napredna 
+
 12.Strel....?
 13.Zaključki
+
