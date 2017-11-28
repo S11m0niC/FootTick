@@ -1,0 +1,9 @@
+C:\Users\S11\Documents\Faks\MUR\Vaja4\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\S11\Documents\Faks\MUR\Vaja4\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\S11\Documents\Faks\MUR\Vaja4\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\S11\Documents\Faks\MUR\Vaja4\ChatClient\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+C:\Users\S11\Documents\Faks\MUR\Vaja4\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\S11\Documents\Faks\MUR\Vaja4\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+C:\Users\S11\Documents\Faks\MUR\Vaja4\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\S11\Documents\Faks\MUR\Vaja4\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\S11\Documents\Faks\MUR\Vaja4\ChatClient\ChatClient\obj\Debug\ChatClient.Form1.resources
